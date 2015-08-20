@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\qureshij\.gradle\caches\modules-2\files-2.1\org.imgscalr\imgscalr-lib\4.2\e2838f7119361511ef7d54fe0d502bf07f3325eb\imgscalr-lib-4.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e2838f7119361511ef7d54fe0d502bf07f3325eb">
+        <dex dex="C:\Users\qureshij\Google Drive\Share-Via-Sms (SVS)\Junaid\Share\app\build\intermediates\pre-dexed\debug\imgscalr-lib-4.2-301f0031daa9d92f80e051f69110785a43645c04.jar" />
+    </item>
+    <item
+        jar="C:\Users\qureshij\Google Drive\Share-Via-Sms (SVS)\Junaid\Share\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\qureshij\Google Drive\Share-Via-Sms (SVS)\Junaid\Share\app\build\intermediates\pre-dexed\debug\classes-da50b9d0143db328b7eb051f2ff09444d04127f8.jar" />
+    </item>
+    <item
+        jar="D:\project\Share\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\project\Share\app\build\intermediates\pre-dexed\debug\classes-5aa9c00d4aac336a150cbfad843b47f9f2b05e30.jar" />
+    </item>
+    <item
+        jar="D:\project\Share\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\project\Share\app\build\intermediates\pre-dexed\debug\classes-ed0020bbed58351659e47ce4f388f55c9d5b4f8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\qureshij\.gradle\caches\modules-2\files-2.1\org.apache.directory.studio\org.apache.commons.codec\1.8\af243a2c8302b659b0afe9b4a2d8add1b7f964c0\org.apache.commons.codec-1.8.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="af243a2c8302b659b0afe9b4a2d8add1b7f964c0">
+        <dex dex="C:\Users\qureshij\Google Drive\Share-Via-Sms (SVS)\Junaid\Share\app\build\intermediates\pre-dexed\debug\org.apache.commons.codec-1.8-c5824bc225be3843a8a7b1de50f727ee4a04d6ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\qureshij\Google Drive\Share-Via-Sms (SVS)\Junaid\Share\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\qureshij\Google Drive\Share-Via-Sms (SVS)\Junaid\Share\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-15305d42fe45ac939c57aef81f82663a4bd39258.jar" />
+    </item>
+    <item
+        jar="D:\project\Share\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\project\Share\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-7d4c1f39060152f3f3157d06a6a864ba3b140d72.jar" />
+    </item>
+    <item
+        jar="C:\Users\qureshij\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.8\af3be3f74d25fc5163b54f56a0d394b462dafafd\commons-codec-1.8.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="af3be3f74d25fc5163b54f56a0d394b462dafafd">
+        <dex dex="C:\Users\qureshij\Google Drive\Share-Via-Sms (SVS)\Junaid\Share\app\build\intermediates\pre-dexed\debug\commons-codec-1.8-cfcc4d2f7e387739224e6d71c64e582719eecac7.jar" />
+    </item>
+    <item
+        jar="C:\Users\qureshij\Google Drive\Share-Via-Sms (SVS)\Junaid\Share\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\qureshij\Google Drive\Share-Via-Sms (SVS)\Junaid\Share\app\build\intermediates\pre-dexed\debug\classes-266f32fef7583ab394cf9b975ff201bd75050c6d.jar" />
+    </item>
+    <item
+        jar="D:\Softwares\Android-SDK\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\qureshij\Google Drive\Share-Via-Sms (SVS)\Junaid\Share\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-430732d02163b1b6af83ef577fbdbe8e7a81b2a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\qureshij\.gradle\caches\modules-2\files-2.1\org.webjars\is-webp\0.1.1\9c982b0a9fcdcd4adc3a77fda1dac0a6a47ff94c\is-webp-0.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c982b0a9fcdcd4adc3a77fda1dac0a6a47ff94c">
+        <dex dex="C:\Users\qureshij\Google Drive\Share-Via-Sms (SVS)\Junaid\Share\app\build\intermediates\pre-dexed\debug\is-webp-0.1.1-85f5734ab43a5769ee3a920451b41a4a8e8c754c.jar" />
+    </item>
+
+</items>
